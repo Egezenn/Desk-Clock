@@ -1,0 +1,5 @@
+kicad/*.kicad_prl
+kicad/*-backups
+kicad/fp-info-cache
+kicad/~*.lck
+olddocs
