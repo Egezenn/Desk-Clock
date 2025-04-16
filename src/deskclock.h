@@ -21,6 +21,6 @@
 #define RTC_IO PIN_C1
 #define RTC_RST PIN_C2
 
-#define YUKSELT PIN_B1
-#define AZALT PIN_B2
-#define TAMAM PIN_B3
+#define INCREASE PIN_B1
+#define DECRESASE PIN_B2
+#define OK PIN_B3
